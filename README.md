@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aleeeh
-- 👀 I’m interested in Computer Science (Python, Security, Rust and Java)
-- 🌱 I’m currently learning Python
+- 👀 I’m a Computer Science Student at  ULPGC interested mainly on (Python, Security, Rust and Java)
+- 🌱 I’m currently using C, Java and Python.
 
 <!---
 Aleeeh/Aleeeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
